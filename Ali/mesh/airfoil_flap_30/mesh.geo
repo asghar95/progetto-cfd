@@ -153,5 +153,5 @@ Plane Surface(1000)= {2,1,3};
 
 Physical Surface(1)={1000};
 Physical Line("FARFIELD") = {3,4,5,6};
-Physical Line("AIRFOIL") = {1,2};
-Physical Line("FLAP") = {8,9};
+Physical Line("AIRFOIL") = {1,2,8,9};
+//Physical Line("FLAP") = {8,9};
