@@ -102,5 +102,5 @@ Line Loop(2) ={-7,-6,-5,-4};
 Plane Surface(1000)= {1,2};
 
 Physical Surface(1)={1000};
-Physical Line("FARFIELD") = {3,4,5,6};
-Physical Line("AIRFOIL") = {1,2};
+Physical Line("FARFIELD") = {4,5,6,7};
+Physical Line("AIRFOIL") = {1,2,3};

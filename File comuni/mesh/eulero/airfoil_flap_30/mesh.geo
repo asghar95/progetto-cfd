@@ -152,6 +152,6 @@ Line Loop(3)={8,9}; //flap
 Plane Surface(1000)= {2,1,3};
 
 Physical Surface(1)={1000};
-Physical Line("FARFIELD") = {3,4,5,6};
-Physical Line("AIRFOIL") = {1,2};
+Physical Line("FARFIELD") = {4,5,6,7};
+Physical Line("AIRFOIL") = {1,2,3};
 Physical Line("FLAP") = {8,9};
